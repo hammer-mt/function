@@ -1,0 +1,7 @@
+.git
+.gitignore
+readme.md
+test_*
+*_test*
+
+#!include:.gitignore
